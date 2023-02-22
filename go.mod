@@ -1,4 +1,4 @@
-module github.com/ashishjuyal/banking-auth
+module github.com/lmwang27/banking-auth
 
 go 1.15
 
