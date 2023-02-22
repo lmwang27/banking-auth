@@ -2,9 +2,9 @@ package app
 
 import (
 	"encoding/json"
-	"github.com/ashishjuyal/banking-auth/dto"
-	"github.com/ashishjuyal/banking-auth/service"
-	"github.com/ashishjuyal/banking-lib/logger"
+	"github.com/lmwang27/banking-auth/dto"
+	"github.com/lmwang27/banking-auth/service"
+	"github.com/lmwang27/banking-lib/logger"
 	"net/http"
 )
 
